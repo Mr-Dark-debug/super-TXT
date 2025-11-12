@@ -1,0 +1,8 @@
+crawl4ai
+crawl4ai-setup
+crawl4ai-doctor
+rich 
+httpx 
+beautifulsoup4 
+pyfiglet 
+markdownify
