@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ---
 
-## Installation & Setup (Crawl4AI 2023+ flow)
+## Installation & Setup (Crawl4AI flow)
 
 1. **Browser setup**
 
